@@ -25,6 +25,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'therubyracer'
 gem 'devise'
 gem 'omniauth'
+gem 'omniauth-twitter'
 gem 'omniauth-digitalocean'
 gem 'therubyracer'
 # Use ActiveModel has_secure_password
